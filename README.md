@@ -4,7 +4,7 @@ Weather app built with React and ViteJS.
 
 ## Screenshot
 
-<img src="./screenshot/react-weather-app-preview.png" alt="React weather app preview" width="700px">
+<img src="./screenshot/react-weather-app.png" alt="React weather app preview" width="700px">
 
 ## Project
 
