@@ -4,7 +4,7 @@ import axios from "axios";
 const AppContext = React.createContext();
 
 function AppProvider({ children }) {
-  const [query, setQuery] = React.useState("rome");
+  const [query, setQuery] = React.useState("new york");
   const [coords, setCoords] = React.useState({ lon: "", lat: "" });
   const [gotCoords, setGotCoords] = React.useState(false);
   const [cityInfo, setCityInfo] = React.useState({ city: "", country: "" });
